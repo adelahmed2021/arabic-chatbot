@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+psycopg2-binary
+pgvector
+python-dotenv
+docker
+cohere
+python-multipart
+langchain-text-splitters
+
